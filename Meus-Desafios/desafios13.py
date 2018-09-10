@@ -23,5 +23,3 @@ print(emoji.emojize("Olá,  Mundo :thumbsup:", use_aliases=True))
 print(emoji.emojize("Olá,  Mundo :anger:", use_aliases=True))
 print(emoji.emojize("Olá,  Mundo :alien:", use_aliases=True))
 print(emoji.emojize("Olá,  Mundo :sob:", use_aliases=True))
-
-
